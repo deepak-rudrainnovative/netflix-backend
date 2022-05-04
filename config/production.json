@@ -1,0 +1,4 @@
+{
+    "DB_URL":"mongodb+srv://dbDeepak:deepak@cluster0.xt930.mongodb.net/netflix-app?retryWrites=true&w=majority",
+    "JWT_PRIVATE_KEY":"12345678"
+}
