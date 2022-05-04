@@ -1,0 +1,24 @@
+{ 
+    "COMMON_API":{
+        "UNAUTHORIZED_USER":{
+            "message":"Unauthorized User",
+            "status":401
+        },
+        "USER_NOT_FOUND":{
+            "message":"User Not Found",
+            "status":404
+        }
+    },
+    "LOGIN_API":{
+        "PASSWORD_MISMATCH":{
+            "message":"Password is Incorrect",
+            "status":400
+        }
+    },
+    "SIGNUP_API":{
+        "ALREADY_SIGNUP":{
+            "message":"Already SignUp on this email",
+            "status":400
+        }
+    }
+}
